@@ -1,2 +1,1 @@
-# Fun-o-Para-Vota-o-no-Brasil
-Função para mostrar status de voto no Brasil
+Função que calcula idade do usuário e mostra se voto é obrigatório, opcional ou não permitido no Brasil.
